@@ -139,7 +139,8 @@ public class BuildSpec implements Serializable, Validatable {
 						ParamSupply.validateParams(dependencyJob.getParamSpecs(), dependency.getJobParams());
 					} catch (ValidationException e) {
 						String message = "Item #" + j + ": Error validating parameters of dependency job '" 
-								+ dependencyJob.getName() + "': " + e.getMessage();
+								+ dependencyJob.getName() + "': " + e.getMessage();+
+						System.out.println(message);
 						context.buildConstraintViolationWithTemplate(message)
 								.addPropertyNode(PROP_JOBS).addPropertyNode(Job.PROP_JOB_DEPENDENCIES)
 									.inIterable().atIndex(i)
