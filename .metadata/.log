@@ -1,0 +1,62 @@
+!SESSION 2021-04-06 17:11:09.016 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-04-06 17:11:28.157
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-06 17:11:28.157
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@24d0c6a4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@50e24ea4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-04-06 17:11:46.034
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ludov'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:12:49.563
+!MESSAGE The POM for org.eclipse.core:org.eclipse.core.contenttype:jar:3.4.200.v20140207 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:12:49.578
+!MESSAGE The POM for org.eclipse.core:org.eclipse.core.jobs:jar:3.5.300.v20130429 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:12:49.592
+!MESSAGE The POM for org.eclipse.core:org.eclipse.core.resources:jar:3.9.1.v20140825 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:12:49.606
+!MESSAGE The POM for org.eclipse.core:org.eclipse.core.runtime:jar:3.13.0.v20170207 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:12:49.620
+!MESSAGE The POM for org.eclipse.core:org.eclipse.core.filesystem:jar:1.7.0.v20170406 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:12:49.648
+!MESSAGE The POM for org.eclipse:org.eclipse.osgi:jar:3.12.0.v20170512 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:12:49.662
+!MESSAGE The POM for org.eclipse.equinox:org.eclipse.equinox.registry:jar:3.5.400.v20140428 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:12:49.676
+!MESSAGE The POM for org.eclipse.equinox:org.eclipse.equinox.common:jar:3.6.200.v20130402 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:12:49.690
+!MESSAGE The POM for org.eclipse.cdt:org.eclipse.cdt.core:jar:5.11.0 is missing, no dependency information available
