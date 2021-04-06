@@ -438,3 +438,57 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:15:53.201
 !MESSAGE The POM for org.eclipse.cdt:org.eclipse.cdt.core:jar:5.11.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:18:53.556
+!MESSAGE The POM for org.eclipse.core:org.eclipse.core.contenttype:jar:3.4.200.v20140207 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:18:53.564
+!MESSAGE The POM for org.eclipse.core:org.eclipse.core.jobs:jar:3.5.300.v20130429 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:18:53.573
+!MESSAGE The POM for org.eclipse.core:org.eclipse.core.resources:jar:3.9.1.v20140825 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:18:53.581
+!MESSAGE The POM for org.eclipse.core:org.eclipse.core.runtime:jar:3.13.0.v20170207 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:18:53.589
+!MESSAGE The POM for org.eclipse.core:org.eclipse.core.filesystem:jar:1.7.0.v20170406 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:18:53.598
+!MESSAGE The POM for org.eclipse:org.eclipse.osgi:jar:3.12.0.v20170512 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:18:53.606
+!MESSAGE The POM for org.eclipse.equinox:org.eclipse.equinox.registry:jar:3.5.400.v20140428 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:18:53.613
+!MESSAGE The POM for org.eclipse.equinox:org.eclipse.equinox.common:jar:3.6.200.v20130402 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:18:53.621
+!MESSAGE The POM for org.eclipse.cdt:org.eclipse.cdt.core:jar:5.11.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:38:38.596
+!MESSAGE The POM for org.eclipse.core:org.eclipse.core.contenttype:jar:3.4.200.v20140207 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:38:38.606
+!MESSAGE The POM for org.eclipse.core:org.eclipse.core.jobs:jar:3.5.300.v20130429 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:38:38.616
+!MESSAGE The POM for org.eclipse.core:org.eclipse.core.resources:jar:3.9.1.v20140825 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:38:38.629
+!MESSAGE The POM for org.eclipse.core:org.eclipse.core.runtime:jar:3.13.0.v20170207 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:38:38.641
+!MESSAGE The POM for org.eclipse.core:org.eclipse.core.filesystem:jar:1.7.0.v20170406 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:38:38.654
+!MESSAGE The POM for org.eclipse:org.eclipse.osgi:jar:3.12.0.v20170512 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:38:38.665
+!MESSAGE The POM for org.eclipse.equinox:org.eclipse.equinox.registry:jar:3.5.400.v20140428 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:38:38.675
+!MESSAGE The POM for org.eclipse.equinox:org.eclipse.equinox.common:jar:3.6.200.v20130402 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-04-06 17:38:38.686
+!MESSAGE The POM for org.eclipse.cdt:org.eclipse.cdt.core:jar:5.11.0 is missing, no dependency information available
